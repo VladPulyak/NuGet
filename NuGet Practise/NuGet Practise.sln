@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NuGet Practise", "NuGet Practise\NuGet Practise.csproj", "{DFC13DD0-0AE0-4B57-9001-20F08C7CA320}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFC13DD0-0AE0-4B57-9001-20F08C7CA320}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFC13DD0-0AE0-4B57-9001-20F08C7CA320}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFC13DD0-0AE0-4B57-9001-20F08C7CA320}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFC13DD0-0AE0-4B57-9001-20F08C7CA320}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1DB6375-E207-435D-A4BA-C5086649E2A3}
+	EndGlobalSection
+EndGlobal
